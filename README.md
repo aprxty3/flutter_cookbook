@@ -1,16 +1,6 @@
-# flutter_cookbook
+# Flutter Learn 
+## from book named "Flutter Cookbook" by Simone Alessandria & Brian Kayfitz
 
-Flutter Learning Repository from Flutter Cookbook
+can be buy & download in https://www.packtpub.com/product/flutter-cookbook/9781838823382?_ga=2.129998220.185244207.1672585608-589143904.1672111328
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/73772152/210175355-6a00c571-cd24-4bdf-bb40-e4127a339599.png">
