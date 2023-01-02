@@ -1,4 +1,4 @@
-/// from Page 48 to 51
+/// from Page 48 to 53
 
 void main() {
   stringPlayground();
@@ -12,6 +12,16 @@ void stringPlayground() {
   print('-------------');
   print('-------------');
   combiningStrings();
+
+  print('-------------');
+  print('-------------');
+  List fruits = ['Strawberry', 'Coconut', 'Orange', 'Mango', 'Apple'];
+  StringBuffer buffer = StringBuffer();
+  for (String fruit in fruits) {
+    buffer.write(fruit);
+    buffer.write(' ');
+  }
+  print (buffer.toString());
 }
 
 void basicStringDeclaration() {
