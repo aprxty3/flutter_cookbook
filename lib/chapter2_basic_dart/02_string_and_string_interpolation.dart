@@ -21,7 +21,7 @@ void stringPlayground() {
     buffer.write(fruit);
     buffer.write(' ');
   }
-  print (buffer.toString());
+  print(buffer.toString());
 }
 
 void basicStringDeclaration() {
